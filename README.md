@@ -29,7 +29,6 @@
 
 
 ## 🏗️ 项目结构
-## 🏗️ 项目结构
 
 ```text
 traffic-intelligent-detection/
