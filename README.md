@@ -38,6 +38,7 @@ traffic-intelligent-detection/
 ├── docs/                    # 输出结果（Excel）
 │   └── demo.jpg
 ├── models/
+│   ├── best.pt
 │   └── READEM.md               # 模型权重文件说明 
 ├── outputs/                    # 输出结果（Excel）
 │   └── .gitkeep
